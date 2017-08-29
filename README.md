@@ -1,7 +1,5 @@
-<<<<<<< 2dd9b285905bfd0a780e79b0b9476782c7a85bae
 # tfobjectdetector
 Basic Object detection via camera using Tensorflow
-=======
 # Tensorflow Object Detection API
 Creating accurate machine learning models capable of localizing and identifying
 multiple objects in a single image remains a core challenge in computer vision.
@@ -102,8 +100,3 @@ release includes:
   distributed training and evaluation pipelines via
   [Google Cloud](g3doc/running_on_cloud.md).
 
-
-<b>Thanks to contributors</b>: Jonathan Huang, Vivek Rathod, Derek Chow,
-Chen Sun, Menglong Zhu, Matthew Tang, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Jasper Uijlings,
-Viacheslav Kovalevskyi, Kevin Murphy
->>>>>>> initial commit
